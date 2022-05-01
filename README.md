@@ -1,5 +1,8 @@
 # ArduinoDarkTeme
 
+### [English README!](/README_EN.md)
+### [Руский README!](/README_RU.md)  
+
 ### Інтсрукція
 
 1. Завантажити Zip архів
